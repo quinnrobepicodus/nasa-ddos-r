@@ -1,4 +1,4 @@
-# Nasa image getter
+# Nasa Image Getter
 ### Gets all photos from the first 1000 days of nasa mars rover curiosity
 To start, navigate to the projects root folder and run the following command:
 ```console
